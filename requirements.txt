@@ -1,0 +1,7 @@
+pandas
+numpy
+scikit-learn
+matplotlib
+seaborn
+
+Data files are not included due to their large size. link for the data set- https://www.kaggle.com/datasets/olistbr/brazilian-ecommerce.
